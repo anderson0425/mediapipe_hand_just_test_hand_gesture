@@ -1,0 +1,1 @@
+# mediapipe_hand_just_test_hand_gesture
